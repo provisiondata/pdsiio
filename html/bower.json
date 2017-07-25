@@ -1,0 +1,27 @@
+{
+  "name": "pdsi.io",
+  "homepage": "https://pdsi.io",
+  "authors": [
+    "Doug Wilson <d@dkw.io>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^2.1.4",
+    "tether": "^1.4.0"
+  },
+  "resolutions": {
+    "bootstrap": "v4.0.0-alpha.6"
+  }
+}
